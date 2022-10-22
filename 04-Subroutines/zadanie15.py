@@ -1,9 +1,9 @@
 #zadanie 15
 
-import mymath
+from mymath import *
 
-x = mymath.read_number()
-if(x == mymath.generate_number()):
+x = read_number()
+if(x == generate_number()):
     print("win")
 else:
     print("lose")
