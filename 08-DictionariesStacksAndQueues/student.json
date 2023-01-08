@@ -1,0 +1,13 @@
+{
+  "firstname": "Jakub",
+  "lastname": "Cecula",
+  "age": 20,
+  "height": 6.2,
+  "hobby": [
+    "football",
+    "music",
+    "coding"
+  ],
+  "married": false,
+  "gender": "male"
+}
